@@ -17,6 +17,10 @@ This is a Random Joke component to get jokes from this [joke](https://sv443.net/
 
 ![](./screenshot.png)
 
+### Links
+
+- Submission URL: [Github Repo](https://github.com/fritzadelbertus/PP03_Random-Jokes-Generator)
+- Live Site URL: [Github Pages](https://fritzadelbertus.github.io/PP03_Random-Jokes-Generator/)
 
 ## Built with
 
