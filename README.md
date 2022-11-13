@@ -6,9 +6,7 @@ This is my Personal Project and my first React App
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -19,14 +17,8 @@ This is a Random Joke component to get jokes from this [joke](https://sv443.net/
 
 ![](./screenshot.png)
 
-### Links
 
-- Submission URL: [Github Repo](https://github.com/fritzadelbertus/DAP-Pokedex)
-- Live Site URL: [Github Pages](https://fritzadelbertus.github.io/DAP-Pokedex/)
-
-## My process
-
-### Built with
+## Built with
 
 - Flexbox
 - Mobile First Design
